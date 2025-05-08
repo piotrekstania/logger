@@ -50,3 +50,6 @@ echo $JAVA_HOME
 echo "vm.max_map_count=1048576" | sudo tee -a /etc/sysctl.conf
 sudo sysctl -p
 sudo cat /proc/sys/vm/max_map_count
+
+
+

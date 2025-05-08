@@ -1,0 +1,10 @@
+{
+    "servers": [
+      {
+        "name": "Shubham",
+        "description": "ksingh.shubh@gmail.com",
+        "host": "192.168.1.1",
+        "port":502
+      }
+    ]
+  }
